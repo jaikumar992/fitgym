@@ -28,15 +28,15 @@ if 'workout_log' not in st.session_state:
 # Exercise images
 EXERCISE_IMAGES = {
     'Push-ups': 'attached_assets/generated_images/Push-up_exercise_demonstration_834173db.png',
-    'Deadlifts': '.streamlit/attached_assets/generated_images/Deadlift_exercise_demonstration_25b5981b.png',
-    'Squats': '.streamlit/attached_assets/generated_images/Squat_exercise_demonstration_0fe2fac2.png',
-    'Pull-ups': '.streamlit/attached_assets/generated_images/Pull-up_exercise_demonstration_731d5439.png',
-    'Planks': '.streamlit/attached_assets/generated_images/Plank_exercise_demonstration_6cf13905.png',
-    'Running': '.streamlit/attached_assets/generated_images/Cardio_running_exercise_1aa2ef0f.png',
-    'Bench Press': '.streamlit/attached_assets/generated_images/Bench_press_exercise_ff184ec3.png',
-    'Lunges': '.streamlit/attached_assets/generated_images/Lunges_exercise_demonstration_df49961d.png',
-    'Bicep Curls': '.streamlit/attached_assets/generated_images/Bicep_curls_exercise_040f7506.png',
-    'Overhead Press': '.streamlit/attached_assets/generated_images/Shoulder_press_exercise_56393f31.png'
+    'Deadlifts': 'attached_assets/generated_images/Deadlift_exercise_demonstration_25b5981b.png',
+    'Squats': 'attached_assets/generated_images/Squat_exercise_demonstration_0fe2fac2.png',
+    'Pull-ups': 'attached_assets/generated_images/Pull-up_exercise_demonstration_731d5439.png',
+    'Planks': 'attached_assets/generated_images/Plank_exercise_demonstration_6cf13905.png',
+    'Running': 'attached_assets/generated_images/Cardio_running_exercise_1aa2ef0f.png',
+    'Bench Press': 'attached_assets/generated_images/Bench_press_exercise_ff184ec3.png',
+    'Lunges': 'attached_assets/generated_images/Lunges_exercise_demonstration_df49961d.png',
+    'Bicep Curls': 'attached_assets/generated_images/Bicep_curls_exercise_040f7506.png',
+    'Overhead Press': 'attached_assets/generated_images/Shoulder_press_exercise_56393f31.png'
 }
 
 # Exercise database with descriptions
