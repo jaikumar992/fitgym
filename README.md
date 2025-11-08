@@ -4,8 +4,12 @@
 It helps users track calories, explore exercise routines, and monitor their fitness progress — all in one place.
 
 ---
-# Live site you can see project
-🔗 [Live Site](https://fitzone-gym-raja.streamlit.app)
+
+## 🌐 Live Demo
+Visit our live application:  
+### 🔗 [FitZone Gym Live](https://fitgym-jaikumar992.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fitgym-jaikumar992.streamlit.app)
 
 ## 🚀 Features
 
