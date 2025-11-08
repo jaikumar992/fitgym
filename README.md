@@ -4,6 +4,8 @@
 It helps users track calories, explore exercise routines, and monitor their fitness progress — all in one place.
 
 ---
+# Live site you can see project
+🔗 [Live Site](https://fitzone-gym-raja.streamlit.app)
 
 ## 🚀 Features
 
@@ -31,3 +33,4 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/jaikumar992/fitgym.git
 cd fitgym
+
