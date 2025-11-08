@@ -27,7 +27,7 @@ if 'workout_log' not in st.session_state:
 
 # Exercise images
 EXERCISE_IMAGES = {
-    'Push-ups': '.streamlit/attached_assets/generated_images/Push-up_exercise_demonstration_834173db.png',
+    'Push-ups': 'attached_assets/generated_images/Push-up_exercise_demonstration_834173db.png',
     'Deadlifts': '.streamlit/attached_assets/generated_images/Deadlift_exercise_demonstration_25b5981b.png',
     'Squats': '.streamlit/attached_assets/generated_images/Squat_exercise_demonstration_0fe2fac2.png',
     'Pull-ups': '.streamlit/attached_assets/generated_images/Pull-up_exercise_demonstration_731d5439.png',
