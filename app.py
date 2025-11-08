@@ -200,7 +200,7 @@ with st.sidebar:
 # Main Content
 if page == "🏠 Home":
     # Hero Section
-    st.image('.streamlit/attached_assets/generated_images/Gym_hero_banner_image_7ac5ba51.png', use_container_width=True)
+    st.image('attached_assets/generated_images/Gym_hero_banner_image_7ac5ba51.png', use_container_width=True)
     st.markdown('<div class="main-header">Welcome to FitZone Gym</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Transform Your Body, Transform Your Life</div>', unsafe_allow_html=True)
     st.markdown("")
@@ -211,17 +211,17 @@ if page == "🏠 Home":
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        st.image('.streamlit/attached_assets/generated_images/Strength_training_feature_1cf72b9b.png', use_container_width=True)
+        st.image('attached_assets/generated_images/Strength_training_feature_1cf72b9b.png', use_container_width=True)
         st.markdown("### 🏋️ Strength Training")
         st.write("State-of-the-art equipment and expert guidance to help you build muscle, increase strength, and achieve your fitness goals.")
     
     with col2:
-        st.image('.streamlit/attached_assets/generated_images/Group_fitness_class_56658709.png', use_container_width=True)
+        st.image('attached_assets/generated_images/Group_fitness_class_56658709.png', use_container_width=True)
         st.markdown("### 👥 Community Support")
         st.write("Join a supportive community of like-minded individuals. Group classes, personal training, and a motivating environment.")
     
     with col3:
-        st.image('.streamlit/attached_assets/generated_images/Nutrition_and_meal_prep_7f07bb85.png', use_container_width=True)
+        st.image('attached_assets/generated_images/Nutrition_and_meal_prep_7f07bb85.png', use_container_width=True)
         st.markdown("### 🥗 Nutrition Guidance")
         st.write("Track your calories, plan your meals, and get personalized nutrition advice to fuel your workouts and recovery.")
     
